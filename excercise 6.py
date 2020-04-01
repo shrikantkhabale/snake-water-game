@@ -1,5 +1,4 @@
 # Snake Water Gun Game
-# choose above value randomly
 import random
 
 user_count=0
